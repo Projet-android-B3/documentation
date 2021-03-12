@@ -7,8 +7,8 @@
 ```
 # Front
 Ionic -> car c'est open source, il y a une bonne documentation, crossplatformes web/mobile.
-VueJS -> Ionic nous proposait 3 frameworks JS et nous nous sommes tourné vers celui que nous connaissions le plus soit VueJS (ici la version 3)
-TailwindCSS -> Un framework CSS bien documenter et très intuitive. Grâce à Tailwind, il n'y a pas une balise <style> dans notre code.
+VueJS -> Ionic nous proposait 3 frameworks JS et nous nous sommes tournés vers celui que nous connaissions le plus soit VueJS (ici la version 3)
+TailwindCSS -> Un framework CSS bien documenté et très intuitif. Grâce à Tailwind, il n'y a pas une balise <style> dans notre code.
 
 # Backend
 NodeJS -> Nous sommes plus à l'aise avec cette technologie.
