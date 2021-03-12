@@ -15,10 +15,10 @@ NodeJS -> Nous sommes plus à l'aise avec cette technologie.
 Sequelize -> C'est un ORM simple d'utilisation qui combine des fonctionnalités comme génération de bases de données, de migrations et de seeders.
 ```  
 
-Arthur c'est occupé de l'API et de ça documentation.
-Alan et Augustin ce sont occupé du développement de l'application.
+Arthur s'est occupé de l'API et de sa documentation.
+Alan et Augustin se sont occupés du développement de l'application.
 
-Nous nous sommes occupé de cette documentation ensemble.
+Nous nous sommes occupés de cette documentation ensemble.
 
 
 ## Lien important
