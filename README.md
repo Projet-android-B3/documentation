@@ -21,6 +21,21 @@ Alan et Augustin se sont occupés du développement de l'application.
 Nous nous sommes occupés de cette documentation ensemble.
 
 
+## Connexions :
+
+```
+ADMIN
+mail : admin@gmail.com
+mdp : 1234
+
+
+USER
+mail : test@gmail.com
+mdp : 1234
+```
+
+
+
 ## Lien important
 
 - Lien github de l'[API](https://github.com/Projet-android-B3/AppAPI).
